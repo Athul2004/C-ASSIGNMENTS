@@ -338,4 +338,4 @@ These programs are educational assignments. Feel free to use them for learning C
 
 ---
 
-**Happy Coding! 🎉**
+**Thank u**
