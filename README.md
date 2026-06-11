@@ -4,17 +4,6 @@ A comprehensive collection of C programming assignments organized by difficulty 
 
 ---
 
-## 📋 Table of Contents
-
-- [Project Overview](#project-overview)
-- [Project Structure](#project-structure)
-- [Getting Started](#getting-started)
-- [Program Categories](#program-categories)
-- [Compilation & Execution](#compilation--execution)
-- [Prerequisites](#prerequisites)
-
----
-
 ## 📖 Project Overview
 
 This project contains **27 C programming assignments** organized into 6 main categories:
