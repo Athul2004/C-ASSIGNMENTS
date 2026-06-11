@@ -263,17 +263,7 @@ gcc 1_check_even_odd.c -o 1_check_even_odd.exe
 
 ---
 
-## 💡 Learning Path
 
-**Beginner** → Basic (Programs 1-4)
-↓
-**Intermediate** → Function (5-9), Strings (10-16)
-↓
-**Advanced** → Bit Manipulation (17-20), Array (21-26)
-↓
-**Expert** → Structure (27)
-
----
 
 ## 🔍 Testing & Output Verification
 
@@ -287,15 +277,6 @@ Check these files to verify your program execution is correct.
 
 ---
 
-## 📌 Tips for Success
-
-1. **Understand the Problem**: Read the comments in each `.c` file carefully
-2. **Follow Prerequisites**: Learn concepts mentioned in "Pre-requisites"
-3. **Test Thoroughly**: Use edge cases and various inputs
-4. **Reference Output**: Compare your output with `output.md` files
-5. **Debug Systematically**: Use GDB debugger for complex issues
-
----
 
 ## 🐛 Common Issues
 
