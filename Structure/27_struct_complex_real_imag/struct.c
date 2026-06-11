@@ -1,3 +1,16 @@
+/*
+27. Define a structure Complex with real and imaginary parts. Write a C program to add 
+two complex numbers and display the result. 
+
+Description: The program should define a structure to represent a complex number 
+with two members: real part and imaginary part. It must then create functions to 
+perform addition of two complex numbers and to display a complex number in a 
+readable format (e.g., a + bi). The program should take input for two complex 
+numbers, compute their sum using the defined function, and print the result. 
+
+Pre-requisites: Structures, Functions, Basic Arithmetic Operations, Input/Output 
+*/
+
 #include <stdio.h>
 
 // Structure for complex number

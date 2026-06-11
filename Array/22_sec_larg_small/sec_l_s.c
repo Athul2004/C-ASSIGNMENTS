@@ -1,3 +1,16 @@
+/*
+22. Write a C program that uses an array to find the second largest and second 
+smallest element in a list of numbers. 
+
+Description: The program should prompt the user to enter the size of the array and its 
+elements. It must then scan through the array and determine both the second largest 
+and second smallest values without sorting the array. The program should handle 
+duplicate values correctly — if all elements are the same, it should display an 
+appropriate message. Both results should be displayed on the screen. 
+
+Pre-requisites: Arrays, Loops, Conditional Statements. 
+*/
+
 #include <stdio.h>
 #include <limits.h>
 

@@ -1,3 +1,17 @@
+/*
+24. Write a C program that merges two sorted arrays into a single sorted array 
+without using any sorting function. 
+
+Description: The program should prompt the user to enter the sizes and elements of 
+two arrays, each already sorted in ascending order. It must then merge them into a 
+third array by comparing elements from both arrays one by one and placing the 
+smaller element first, continuing until all elements are placed. The final merged sorted 
+array should be displayed on the screen. 
+
+Pre-requisites: Arrays, Loops, Multiple Array Handling. 
+
+*/
+
 #include <stdio.h>
 
 int main()
